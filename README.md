@@ -1,1 +1,1 @@
-# Blackjack game 
+# Blackjack game using Javascript
